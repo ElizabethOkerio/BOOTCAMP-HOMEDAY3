@@ -35,4 +35,4 @@ class BinarySearch(list):
 
         last = middle - 1
 
-  count+=1
+    count+=1
